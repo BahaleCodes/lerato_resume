@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#000000">
+	<meta name="description"
+		content="I am a passionate smart working individual, looking to make a name for herself. I
+		am very good and patient with people, I respect boundaries, opinions and I
+		am constantly looking to better myself. I find joy in bringing out and
+		celebrating different perspectives on different situations. I am open minded
+		and lead by my principles and values. In everything I am involved in, my aim
+		is to give it my maximum effort and be the best, and at the same time a fair
+		team player. I firmly believe that beautiful moments only come once and a
+		collection of those moments mixed with lessons build a quality life." />
+	<link rel="icon" href="%PUBLIC_URL%logo.ico">
+	<link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+	<link rel="stylesheet" href="%PUBLIC_URL%/css/default.css">
+	<link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css">
+	<link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
+	<link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
+
+	<title>Lerato Coetzee</title>
+	<meta name="description"
+		content="I am a passionate smart working individual, looking to make a name for herself. I
+		am very good and patient with people, I respect boundaries, opinions and I
+		am constantly looking to better myself. I find joy in bringing out and
+		celebrating different perspectives on different situations. I am open minded
+		and lead by my principles and values. In everything I am involved in, my aim
+		is to give it my maximum effort and be the best, and at the same time a fair
+		team player. I firmly believe that beautiful moments only come once and a
+		collection of those moments mixed with lessons build a quality life." />
+</head>
+
+<body>
+	<div id="root"></div>
+	<script>
+		if ('serviceWorker' in navigator) {
+			window.addEventListener('load', function () {
+				navigator.serviceWorker.register('worker.js').then(function (registration) {
+					console.log('Worker registration successful', registration.scope);
+				}, function (err) {
+					console.log('Worker registration failed', err);
+				}).catch(function (err) {
+					console.log(err);
+				});
+			});
+		} else {
+			console.log('Service Worker is not supported by browser.');
+		}
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+	<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/waypoints.js"></script>
+	<script src="js/jquery.fittext.js"></script>
+	<script src="js/magnific-popup.js"></script>
+	<script src="js/init.js"></script>
+</body>
+
+</html>

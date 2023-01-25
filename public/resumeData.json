@@ -1,0 +1,164 @@
+{
+	"main": {
+		"name": "Lerato Celine Coetzee",
+		"description": "Passionate smart working individual, looking to make a name for herself. I am very good and patient with people, I respect boundaries, opinions and I am constantly looking to better myself. I find joy in bringing out and celebrating different perspectives on different situations. I am open minded and lead by my principles and values. In everything I am involved in, my aim is to give it my maximum effort and be the best, and at the same time a fair team player. I firmly believe that beautiful moments only come once and a collection of those moments mixed with lessons build a quality life.",
+		"image": "IMG_5318.jpeg",
+		"bio1": "Currently, I am studying education at the University of Johannessburg, majoring in Afrikaans and History.",
+		"bio2": "I concider myself to be a strong willed, highly ambitious learner, possessing strong and relevant skills to lead and at the same time deliver all that the client and the business needs and wants. I excel at understanding customers and communicating their needs to the business. I am big at growth and self-empowerment, as a result I am always educating and challenging myself. I uphold professionalisim and ubuntu above all things in the work environment.",
+		"bio3": "I have a proven track record of always upskilling myself to the next level consistently aiming to do my absolute best in every task. My record also proves I have always been efficent in driving teams and individuals in meeting set organisational goals.",
+		"contactmessage": "Leave me a message here if you want to get in contact with me.",
+		"email": "coetzeeceline994@gmail.com",
+		"phone": "082 304 3488",
+		"github": "https://github.com/BahaleCodes/",
+		"project": "https://github.com/BahaleCodes/thabosportfolio.git",
+		"address": {
+			"street": "94 Main street, Marshalltown",
+			"city": "Johannesburg",
+			"state": "Gauteng Province",
+			"zip": "2107"
+		},
+		"resumedownload": "LeratoCoetzeesResume.pdf",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://web.facebook.com/lerato.coetzee.14",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/lerato-coetzee-0884b8204/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/l.e.r.at.o_c/",
+				"className": "fa fa-instagram"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "To utilise my skills and experience in enhancing stakeholder value.",
+			"education": [
+			{
+				"school": "University of Johannesburg",
+				"degree": "B Ed in Senior Phase & FET Teaching",
+				"graduated": "Currently studying"
+			},
+			{
+				"school": "Ermelo Hoërskool",
+				"degree": "Matriculation",
+				"graduated": "2018"
+			}
+		],
+		"certificates": [
+			{
+				"school": "Financial Planning institute of South Africa",
+				"name": "Regulatory Examination Certificate (RE5) (FAIS)"
+			},
+			{
+				"school": "Test and Data",
+				"name": "Practical Software Testing for Business Analysts"
+			}
+		],
+		"work": [
+			{
+				"company": "Bahale Codes Software",
+				"title": "Administrative officer and Business Analyst",
+				"years": "October 2020 - Present",
+				"description": [
+					"Maintaining relations with costumers on behalf of the company.",
+					"Following up on document processing between the company and the clients",
+					"Setting up meetings between clients and the company.",
+					"Following up on task completions with the development team.",
+					"Negotiating quotations to clients and setting up payment plans if needed.",
+					"Translating business requirements to software developers.",
+					"Testing and ensuring quality for the end user."
+				]
+			},
+			{
+				"company": "Erries (Ermelo Hoërskool temporary restaurant)",
+				"title": "Waitress",
+				"years": "March 2016 - March 2019"
+			}
+		],
+		"projects": [
+			{
+				"title": "Automation and Robotics",
+				"desc": "Indexing, payments and cover confirmation process automation",
+				"year": "2018"
+			},
+			{
+				"title": "Business Unit Restructure",
+				"desc": "Redesign of process and system for efficiency",
+				"year": "2018"
+			},
+			{
+				"title": "Policy Migration",
+				"desc": "Transferring a book of business to a new system",
+				"year": "2017"
+			},
+			{
+				"title": "TIA",
+				"desc": "System and product implementation at Hollard",
+				"year": "2015"
+			},
+			{
+				"title": "Ekundu",
+				"desc": "System and product implementation at Clientele",
+				"year": "2013"
+			},
+			{
+				"title": "UAT Team",
+				"desc": "Setup new user acceptance team at Medscheme",
+				"year": "2011"
+			},
+			{
+				"title": "Exergy System",
+				"desc": "System implementation at Clientele",
+				"year": "2009"
+			}
+		],
+		"skills": [
+      {
+        "name": "Communication",
+        "level": "100%"
+      },
+      {
+        "name": "Organizational",
+        "level": "100%"
+      },
+      {
+        "name": "Problem solving",
+        "level": "80%"
+      },
+      {
+        "name": "Collaboration",
+        "level": "80%"
+      },
+      {
+        "name": "Adaptability",
+        "level": "70%"
+      },
+      {
+        "name": "Conflict resolution",
+        "level": "100%"
+      },
+      {
+        "name": "Interpersonal",
+        "level": "100%"
+      },
+      {
+        "name": "Critical thinking",
+        "level": "100%"
+      },
+      {
+        "name": "Customer service",
+        "level": "80%"
+      },
+      {
+        "name": "Sales",
+        "level": "100%"
+      }
+    ]
+	}
+}
